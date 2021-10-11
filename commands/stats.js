@@ -81,6 +81,11 @@ module.exports = {
           inline: true,
         },
         {
+          name: ":handshake: DEVELOPER",
+          value: `{🎀}Harsh OP{🎀}#5386`,
+          inline: true,
+        },
+        {
           name: ":green_book: Node",
           value: `┕\`${process.version}\``,
           inline: true,
